@@ -1,0 +1,15 @@
+The Great Gatsby,F. Scott Fitzgerald,1925
+To Kill a Mockingbird,Harper Lee,1960
+1984,George Orwell,1949
+One Hundred Years of Solitude, Gabriel García Márquez, 1967
+Moby-Dick, Herman Melville, 1851
+War and Peace, Leo Tolstoy, 1869
+The Catcher in the Rye, J.D. Salinger, 1951
+Pride and Prejudice, Jane Austen, 1813
+The Lord of the Rings, J.R.R. Tolkien, 1954
+The Brothers Karamazov, Fyodor Dostoevsky, 1880
+Crime and Punishment, Fyodor Dostoevsky, 1866
+ane Eyre, Charlotte Brontë, 1847
+The Odyssey, Homer, 800
+Ulysses, James Joyce, 1922
+Brave New World, Aldous Huxley, 1932
