@@ -1,4 +1,4 @@
-/*
+package com.java.string.matching.algorithm.CC_7_3;/*
  * @group : Week 17 - DS & Algo 2 1 
  * @authors : Varun Avvaru, Jonathon Kingston, Vijay Kumar, William Mai, Vatsal Modgil, Bala Ravi, Prajay Singh Silwal 
  * @version 1.0

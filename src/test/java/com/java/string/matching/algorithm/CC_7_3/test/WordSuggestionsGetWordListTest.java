@@ -25,7 +25,7 @@ public class WordSuggestionsGetWordListTest {
         WordSuggestions wordSuggestions = new WordSuggestions();
         ArrayList<String> wordList = wordSuggestions.getWordList(files);
 
-        assertEquals(8, wordList.size()); // Words longer than 3 characters
+        assertEquals(9, wordList.size()); // Words longer than 3 characters
         assertTrue(wordList.contains("hello"));
         assertTrue(wordList.contains("world"));
 

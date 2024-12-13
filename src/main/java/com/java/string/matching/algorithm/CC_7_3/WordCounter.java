@@ -1,3 +1,5 @@
+package com.java.string.matching.algorithm.CC_7_3;
+
 import java.util.HashMap;
 
 public class WordCounter {

@@ -7,5 +7,6 @@ import org.junit.runners.Suite;
         WordCounterTest.class,
         WordSuggestionsGetWordListTest.class
 })
+
 public class TestsSuiteMatchingAlgorithm {
 }
